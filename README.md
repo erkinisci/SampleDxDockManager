@@ -1,4 +1,7 @@
-# SampleDxDockManager
+Devexpress dockmanager-how-to-create-a-custom-float-topmost-dockpanel
+
+# https://www.devexpress.com/Support/Center/Question/Details/T699864/dockmanager-how-to-create-a-custom-float-topmost-dockpanel
+
 Winforms Devexpress FloatWindow Always on Top 
 
 
